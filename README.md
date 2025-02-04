@@ -6,9 +6,10 @@
 
 ## Estrutura do Projeto
 
-'''mermaid
+```mermaid
     graph TD;
         A [uFafa15] --> |Preenche Formulário| B [PHP Processa Dados];
         B --> C [Armazena no Banco de Dados];
         C --> B [Usuário Recebe Confirmação];
-'''
+```
+
